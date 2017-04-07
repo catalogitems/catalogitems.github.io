@@ -15,4 +15,10 @@
     padding-top: 10px;
     margin-left: -15px;
 }
-
+.detail{
+  border-bottom: groove;
+  border-color: silver;
+  margin-bottom: 2px;
+  padding-bottom: 2px;
+  font-size 10pt
+}
