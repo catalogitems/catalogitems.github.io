@@ -10,7 +10,7 @@ require.config({
         ItemView: "pages/home/products/item-view",
         NavigationView: "pages/home/filters/layout-view",
         FiltersView: "pages/home/filters/filters-view",
-        Route: "https://raw.githubusercontent.com/jgallen23/routie/master/dist/routie.min",
+        Route: "https://raw.githubusercontent.com/jgallen23/routie/master/dist/routie",
         Storage: "utils/storage",
         PublicFunctions: "utils/public-functions"
 
