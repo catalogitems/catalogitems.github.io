@@ -1,0 +1,24 @@
+{
+  "name": "List",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "pilotjs": "^1.7.0",
+    "requirejs": "^2.3.3",
+    "requirejs-json": "0.0.3",
+    "requirejs-text": "^2.0.15",
+    "routie-2": "^1.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "static-server": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serv": "static-server"
+  },
+  "author": "",
+  "license": "ISC"
+}

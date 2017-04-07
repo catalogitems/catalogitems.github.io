@@ -1,0 +1,18 @@
+#filters{
+    position: fixed;
+    float:left;
+}
+
+#view{
+    float:right;
+}
+
+.elem{
+    padding: 10px;
+}
+
+.section-filters{
+    padding-top: 10px;
+    margin-left: -15px;
+}
+
