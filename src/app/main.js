@@ -3,7 +3,7 @@ require.config({
     baseUrl: "src/app",
 
     paths: {
-        jquery: "../../node_modules/jquery/dist/jquery",
+        jquery: "./node_modules/jquery/dist/jquery",
         underscore: "../../node_modules/underscore/underscore",
         text: "../../node_modules/requirejs-text/text",
         json: "../../node_modules/requirejs-json/json",
