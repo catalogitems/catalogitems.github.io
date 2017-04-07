@@ -3,14 +3,14 @@ require.config({
     baseUrl: "src/app",
 
     paths: {
-        jquery: "node_modules/jquery/dist/jquery",
-        underscore: "../../node_modules/underscore/underscore",
-        text: "../../node_modules/requirejs-text/text",
-        json: "../../node_modules/requirejs-json/json",
+        jquery: "https://code.jquery.com/jquery-3.2.1",,
+        underscore: "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore",
+        text: "https://cdnjs.cloudflare.com/ajax/libs/require-text/2.0.12/text",
+        json: "https://cdnjs.cloudflare.com/ajax/libs/requirejs-plugins/1.0.3/json",
         ItemView: "pages/home/products/item-view",
         NavigationView: "pages/home/filters/layout-view",
         FiltersView: "pages/home/filters/filters-view",
-        Route: "../../node_modules/routie-2/index",
+        Route: "https://raw.githubusercontent.com/jgallen23/routie/master/dist/routie.min",
         Storage: "utils/storage",
         PublicFunctions: "utils/public-functions"
 
